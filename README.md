@@ -1,4 +1,4 @@
-design
+Design
 ======
 
-My trials for some tutorials at https://tutsplus.com/
+My trials for some tutorials at [Tuts+](http://tutsplus.com/).
